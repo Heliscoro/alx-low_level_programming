@@ -1,1 +1,1 @@
-This contains solutions to pointers arrays and strings
+This contains solution to array and pointers
