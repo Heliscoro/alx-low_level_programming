@@ -1,1 +1,1 @@
-This repository contains solutions to alx low level programming
+This contains solutions to alx low level programming
