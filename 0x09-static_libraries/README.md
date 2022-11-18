@@ -1,1 +1,1 @@
-This contains solutions to static libraries
+This contains solution to static libraries
